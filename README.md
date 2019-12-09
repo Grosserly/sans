@@ -9,7 +9,7 @@ I want to use this with Wallpaper Engine and I have a hunch that the scripts tha
 - Service worker
 - All icons smaller than 256px
 - Google Analytics
-- Browser compatibility code
+- Compatibility code for old browsers
 - File\:/// check
 - appcache (that's deprecated anyway)
 - `<meta>` tags for mobile support
@@ -20,5 +20,5 @@ I want to use this with Wallpaper Engine and I have a hunch that the scripts tha
 
 ## Changed:
 - Title from "Bad Time Simulator (Sans Fight)" to just "Bad Time Simulator"
-- Some comments to be more brief
+- Some comments to be more consise
 
